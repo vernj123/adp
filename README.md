@@ -1,5 +1,7 @@
 Angry Dalek Program
 
-Angry Dalek. Write an angry Dalek program that rudely asks what
-#you want. Whatever you answer, the angry boss should yell it
-#back to you and then exterminate you. 
+Program that rudely asks what you want.
+Whatever you answer, the angry Dalek should yell it
+back to you and then call for extermination.
+This program also includes the use of the upcase method
+This is a chapter six excersise from Learn to Program 2nd Edition by Chris Pine.
